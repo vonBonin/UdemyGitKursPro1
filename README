@@ -1,7 +1,12 @@
 Hallo Welt
 Hiermit wird README geändert, neuer commit im neuen branch
 
+<<<<<<< HEAD
 Noch eine neue Änderung, in Master
 Sollte merge-conflict darstellen
 
 
+=======
+NICHT IM MASTER!
+sollte merge conflikt ergeben!
+>>>>>>> feature1
